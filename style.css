@@ -1,0 +1,32 @@
+body{
+    margin:auto;
+    padding-top: 0px;
+    padding-left:auto;
+    padding-right:auto;
+}
+.box{
+    padding-left:400px;
+    padding-right:50px;
+}
+.box1{
+    float: left;
+    background-color: rgb(2, 197, 197);
+    width:200px;
+    height:80px;
+    margin-right:2px;
+}
+.box2{
+    font-size: small;
+    float: left;
+    background-color: rgb(1, 179, 179);
+    width:150px;
+    height: 80px;
+    margin-right: 2px;
+}
+.box3{
+    font-size: small;
+    float: left;
+    background-color: rgb(1, 179, 179);
+    width:200px;
+    height:80px;
+}
